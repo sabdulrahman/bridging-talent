@@ -2,7 +2,7 @@
 
 A professional website for BridgingTalent, connecting US companies with Indian engineering talent. Built with React, React Router, and Tailwind CSS.
 
-![BridgingTalent Screenshot](public/images/hero-image.jpg)
+![BridgingTalent Screenshot](public/images/customers-success.jpg)
 
 ## Features
 
